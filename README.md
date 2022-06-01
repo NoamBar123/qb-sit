@@ -1,6 +1,6 @@
 # qb-sit
 
-Just improved version of qb-sit credit to https://github.com/Manliketjb/qb-sit
+Just improved version and fix to stand up of qb-sit credit to https://github.com/Manliketjb/qb-sit
 ## Requirements
 
 qb-core - https://github.com/QBCore-framework/qb-core
